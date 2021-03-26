@@ -1,5 +1,5 @@
 # SklFix
-A program that updates a skl from .zip or .fantome automatically.
+A program that fixes a skl file from .zip or .fantome automatically.
 
 ## Usage
 You only need to do is drag and drop your folder or file onto __SklFix.exe__
