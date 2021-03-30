@@ -277,7 +277,7 @@ namespace SklFix
         {
             using ( FileStream openWrite = File.OpenWrite( "DONT_DELETE" ) )
             {
-                Skeleton skl = new Skeleton( file );
+                Skeleton skl = new Skeleton( CreateMemoryStream( file ) );
                 skl.Write( openWrite );
             }
             using ( FileStream fileStream = File.OpenRead( "DONT_DELETE" ) )

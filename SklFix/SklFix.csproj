@@ -6,8 +6,8 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <LangVersion>preview</LangVersion>
 	    <Platforms>x64</Platforms>
-		<Version>0.2.0</Version>
-		<FileVersion>0.2.0</FileVersion>
+		<Version>0.2.1</Version>
+		<FileVersion>0.2.1</FileVersion>
 		<Authors>Tadaashii</Authors>
 		<Configurations>Debug;ReleasePortable</Configurations>
 		<AssemblyName>SklFix</AssemblyName>
